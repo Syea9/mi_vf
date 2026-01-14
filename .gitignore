@@ -1,0 +1,23 @@
+# Keil 用户个人文件
+*.uvoptx
+*.uvgui.*
+*.uvguix.*
+
+# 编译生成文件和文件夹
+Listings/
+Objects/
+DebugConfig/
+RTE/
+
+*.axf
+*.elf
+*.hex
+*.bin
+*.dep
+*.crf
+*.d
+*.o
+*.lst
+*.map
+*.htm
+JLinkLog.txt
