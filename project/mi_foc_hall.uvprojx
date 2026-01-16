@@ -679,6 +679,11 @@
               <FileType>1</FileType>
               <FilePath>..\hardware\spi.c</FilePath>
             </File>
+            <File>
+              <FileName>pwm.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\hardware\pwm.c</FilePath>
+            </File>
           </Files>
         </Group>
         <Group>
